@@ -1,6 +1,6 @@
-### https://spotgrow.netlify.app/
+#### https://spotgrow.netlify.app
 
-![App Screenshot](https://i.postimg.cc/kgrmgCHs/Screenshot-2022-06-19-at-3-34-48-PM.png)
+![App Screenshot](https://i.postimg.cc/52GnV9k9/Screenshot-2022-06-19-at-3-39-44-PM.png)
 
 # This Bot Helps You to Grow Your Instagram Followers Quickly
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/104856374/174466977-b8f690e0-4bd8-4963
 
 ## 1. Copy the Code
 
-### open the `insta-bot.js` file and `copy code`
+### open the `https://spotgrow.netlify.app` website and click on `Copy Bot Code` Button
 
 ## 2. Open Instagram in Browser and Go to Any Popular Verified Accound
 
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/104856374/174465451-ce8761a8-f509-4824
 
 ## 1. Copy the Code
 
-### open the `insta-bot.js` file and `copy code`
+### open the `https://spotgrow.netlify.app` website and click on `Copy Bot Code` Button
 
 ## 2. Go to Playstore and Install Kiwi Browser
 
