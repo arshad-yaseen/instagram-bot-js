@@ -8,7 +8,7 @@
 
 ![App Screenshot](https://i.postimg.cc/52GnV9k9/Screenshot-2022-06-19-at-3-39-44-PM.png)
 
-#### Only Supports in : Chrome, Brave, Kiwi Browser
+#### Only Supports in : Chrome, Firefox, Brave, Kiwi Browser
 
 # Demo
 
