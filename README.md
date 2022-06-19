@@ -3,7 +3,7 @@
 
 ## With Accepting All Instagram Policy ( no action block )
 
-#### Only Supports in : Chrome, Brave
+#### Only Supports in : Chrome, Brave, Kiwi Browser
 
 # Demo
 
