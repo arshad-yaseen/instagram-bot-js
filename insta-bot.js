@@ -1,5 +1,5 @@
-let followbutton = document.querySelectorAll('.PolarisIGButton')[1]
-let unfollowbutton = document.querySelectorAll('.PolarisIGButton')[1]
+let followbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._acan')[0]
+let unfollowbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._acan')[0]
 
 let timeBetweenClick = 2000;
 let timeBetweenFollowUnfollow = 30000;
