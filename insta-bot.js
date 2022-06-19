@@ -42,18 +42,4 @@ function startBot() {
 }
 
   startBot();
-
-//Clicking Animation (This Is Optional)
-let buttons = document.querySelectorAll("button");
-
-buttons.forEach((button) => {
-  button.onclick = function () {
-    button.style.backgroundColor = "black";
-    button.style.color = "white";
-
-    setTimeout(() => {
-      button.style.backgroundColor = "#EFEFEF";
-      button.style.color = "black";
-    }, 200);
-  };
-});
+  
