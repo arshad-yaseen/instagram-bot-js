@@ -1,13 +1,6 @@
-let followbutton;
-let unfollowbutton;
+followbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._abni')[0] || document.querySelectorAll('._acan')[1] || document.querySelectorAll('._acan')[0]
+unfollowbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._abni')[0] || document.querySelectorAll('._acan')[1] || document.querySelectorAll('._acan')[0]
 
-if(document.querySelectorAll('._acan').length == 1){
-  followbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._acan')[0]
-  unfollowbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._acan')[0]
-}else{
-  followbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._acan')[1]
-  unfollowbutton = document.querySelectorAll('.PolarisIGButton')[1] || document.querySelectorAll('._acan')[1]
-}
 
 let timeBetweenClick = 2000;
 let timeBetweenFollowUnfollow = 30000;
