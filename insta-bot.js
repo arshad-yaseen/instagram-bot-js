@@ -27,6 +27,14 @@ function startClick() {
 function startBot() {
   let count = 1;
   let minusCount = timeBetweenFollowUnfollow;
+  let botStartTimer = 30
+
+  setInterval(()=> {
+    if(botStartTimer > 0 && botStartTimer <= 30) {
+      console.log('Bot starts in : ' + botStartTimer)
+    }
+    botStartTimer = botStartTimer - 1
+  },1000)
 
   setInterval(() => {
     if (count <= iterateCount && followedUnfollowedCount < maximumInstagramAllowedFollowCount) {
