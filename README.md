@@ -3,6 +3,17 @@
 
 ## With Accepting All Instagram Policy ( no action block )
 
+## Supports in
+
+### Chrome
+### Opera
+### Vivaldi
+### Epic
+### Brave
+### Opera Neon
+### Comodo Dragon
+### SRWare Iron
+
 # Demo
 
 https://user-images.githubusercontent.com/104856374/174466977-b8f690e0-4bd8-4963-8ce4-ed7a4ddee20c.mp4
